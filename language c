@@ -2,6 +2,6 @@
 int main()
 {
  char *he=”Hello,world!“；
- printf("%s",he);
+ printf("%d,%s",1,he);
  return 0;
  }
