@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+ char *he=”Hello,world!“；
+ printf("%d,%s",1,he);
+ return 0;
+ }
